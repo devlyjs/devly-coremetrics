@@ -1,0 +1,28 @@
+{
+  "name": "@devly/devly-coremetrics",
+  "version": "1.0.0",
+  "description": "Coremetrics plugin for `@devly`.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/devlyjs/devly-coremetrics"
+  },
+  "keywords": [
+    "devly",
+    "@devly",
+    "@devly/devly-coremetrics",
+    "devly-coremetrics",
+    "coremetrics"
+  ],
+  "author": "Aori Nevo",
+  "license": "ISC",
+  "devDependencies": {
+    "@devly/devly-store": "^1.1.0",
+    "axios": "^0.18.0",
+    "winston": "^2.4.4"
+  },
+  "dependencies": {}
+}
