@@ -1,4 +1,5 @@
 const axios = require('axios');
+const {store} = require('@devly/devly-store');
 
 module.exports = function coremetrics(data) {
   const { url } = store.getState().coremetrics;
